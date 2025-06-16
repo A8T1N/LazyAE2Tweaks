@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "lazyae2tweaks.mixin",
+  "refmap": "mixins.lazyae2tweaks.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinSlotLimit",
+    "MixinThrEngRecipes"
+  ],
+  "client": [],
+  "server": []
+}

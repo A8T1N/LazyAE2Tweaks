@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "Lazy Ae2 Tweaks !!!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "assets/lazyae2tweaks/logo.png",
+    "url": "",
+    "authorList": ["A8"],
+    "credits": "",
+    "dependencies": []
+}]
